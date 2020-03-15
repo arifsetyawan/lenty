@@ -1,4 +1,4 @@
 module.exports.world = () => {
-  return "the World";
+  return "the World for newer version";
 };
 
