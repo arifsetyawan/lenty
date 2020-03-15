@@ -5,3 +5,7 @@ module.exports.world = () => {
 module.exports.jhon = () => {
   return "doe";
 };
+
+module.exports.jane = () => {
+  return "doe";
+};
