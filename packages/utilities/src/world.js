@@ -11,5 +11,5 @@ module.exports.jane = () => {
 };
 
 module.exports.doe = () => {
-  return "doe";
+  return "wonder doe";
 }
