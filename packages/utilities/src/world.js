@@ -9,3 +9,7 @@ module.exports.jhon = () => {
 module.exports.jane = () => {
   return "doe";
 };
+
+module.exports.doe = () => {
+  return "doe";
+}
