@@ -17,3 +17,7 @@ module.exports.doe = () => {
 module.exports.rick = () => {
   return "Hi Rick";
 }
+
+module.exports.arif = () => {
+  return "Hi Arif";
+}
