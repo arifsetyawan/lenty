@@ -13,3 +13,7 @@ module.exports.jane = () => {
 module.exports.doe = () => {
   return "wonder doe";
 }
+
+module.exports.rick = () => {
+  return "Hi Rick";
+}
