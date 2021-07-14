@@ -7,7 +7,7 @@ module.exports.jhon = () => {
 };
 
 module.exports.jane = () => {
-  return "doe";
+  return "do";
 };
 
 module.exports.doe = () => {
